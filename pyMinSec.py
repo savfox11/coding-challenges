@@ -1,4 +1,4 @@
-#challenge 1: convert minutes into seconds
+#challenge 1(easy): convert minutes into seconds
 #python
 minInput = input("Enter number of minutes:")
 min = int(minInput)
